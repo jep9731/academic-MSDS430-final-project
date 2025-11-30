@@ -52,5 +52,4 @@ This notebook includes:
 
 1. Place the CSV inside the `data/` directory.
 2. Open the notebook in Jupyter:
-   ```bash
-   jupyter notebook Pasaye_Executive_Summary.ipynb
+   ```jupyter notebook Pasaye_Executive_Summary.ipynb ```
